@@ -2,7 +2,7 @@
 
 TODO: This is a work in progress
 
-This project shows you how to build a simple web application which communicates with the Ethereum blockchain. The structure of the project is based on this [full stack template](https://github.com/angineering/FullStackTemplate).
+This project is a simple web application which communicates with the Ethereum blockchain. The structure of the project is based on this [full stack template](https://github.com/angineering/FullStackTemplate).
 
 ## Walkthrough
 
@@ -10,7 +10,7 @@ You can find a walkthrough of how to build the application from scratch
 [here](TODO).
 
 
-## Prerequisites
+## Get Started
 After cloning this repository you need to:
 
 1) Install Geth in dev mode. Instructions below are for Ubuntu, instructions for other platforms are [here](https://github.com/ethereum/go-ethereum/wiki/Installing-Geth).
